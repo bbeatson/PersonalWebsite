@@ -20,8 +20,8 @@
 
 title: Test Site
 
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://tokiku.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "PersonalWebsite" # the subpath of your site, e.g. /blog
+url: "bbeatson.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 collections:
   pages:
